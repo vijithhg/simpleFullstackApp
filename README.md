@@ -1,2 +1,0 @@
-# simpleFullstackApp
-No DB
